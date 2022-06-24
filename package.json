@@ -1,0 +1,17 @@
+{
+  "name": "ia_reduce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ia_reduce.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \\'Error: no test specified\\' && exit 1",
+    "start": "node --experimental-json-modules ia_reduce.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^3.18.0"
+  }
+}
